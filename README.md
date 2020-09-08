@@ -39,6 +39,36 @@ This dataset contains Airbnb listing information in New York City for the year 2
 
 • Bull’s head is $3.17 cheaper than the second cheapest neighbourhood (Hunts Point)
 
+# Analysis
+![](Images/1.PNG)
+![](Images/2.PNG)
+![](Images/3.PNG)
+![](Images/4.PNG)
+![](Images/5.PNG)
+![](Images/6.PNG)
+![](Images/7.PNG)
+![](Images/8.PNG)
+![](Images/9.PNG)
+![](Images/10.PNG)
+![](Images/11.PNG)
+![](Images/12.PNG)
+![](Images/13.PNG)
+![](Images/14.PNG)
+![](Images/15.PNG)
+![](Images/16.PNG)
+![](Images/17.PNG)
+![](Images/18.PNG)
+![](Images/19.PNG)
+![](Images/20.PNG)
+![](Images/21.PNG)
+![](Images/22.PNG)
+![](Images/23.PNG)
+![](Images/24.PNG)
+![](Images/25.PNG)
+![](Images/26.PNG)
+![](Images/27.PNG)
+![](Images/28.PNG)
+
 
 
 
