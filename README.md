@@ -1,4 +1,4 @@
-# Airbnb_Listing_Information_2019_New_York :city_sunrise:
+# Airbnb Listing Information 2019 New York :city_sunrise:
 
 ## About ##
 This dataset contains Airbnb listing information in New York City for the year 2019. It contains 48,895 rows and 16 columns.
