@@ -1,12 +1,12 @@
 # Airbnb-Listing-Information-2019-New-York-
 
-# About
+## About ##
 This dataset contains Airbnb listing information in New York City for the year 2019. It contains 48,895 rows and 16 columns.
 
-# Tools Used
+## Tools Used ##
 • Python • Jupyter Notebook • Pandas • NumPy • Matplotlib • Seaborn • scikit-learn • Microsoft Excel
 
-# Results Overview
+## Results Overview ##
 • In 2019, New York had 37,457 hosts that posted listings.
 
 • There were listings in the Brooklyn, Manhattan, Queens, Staten Island and Bronx neighbourhood groups.
@@ -39,7 +39,7 @@ This dataset contains Airbnb listing information in New York City for the year 2
 
 • Bull’s head is $3.17 cheaper than the second cheapest neighbourhood (Hunts Point)
 
-# Analysis
+## Analysis ##
 ![](Images/1.PNG)
 ![](Images/2.PNG)
 ![](Images/3.PNG)
